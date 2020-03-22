@@ -18,3 +18,12 @@ while True:
     elif query == 'e':
         mixer.music.stop()  #Stop the mixer
         break
+
+# import os
+# os.system('mpg321 song.mp3 &')
+# os.abort()
+
+# import mp3play
+# filename = (r'/home/subhayu_roy/PycharmProjects/Music_Player/song.mp3')
+# clip = mp3play.load(filename)
+# clip.play()
